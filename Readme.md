@@ -1,0 +1,1 @@
+This will be used to learn a bit about data science with R
